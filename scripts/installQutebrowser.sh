@@ -1,5 +1,5 @@
-cp ./bin/qutebrowser $HOME/.local/bin/qutebrowser
-cp ../.config/qutebrowser/ $HOME/.config/
+cp ./bin/qutebrowser $HOME/.local/bin/qutebrowser # add to local $PATH
+cp ../.config/qutebrowser/ $HOME/.config/ # install .config dotfiles
 
 git clone https://github.com/qutebrowser/qutebrowser.git $HOME/repos/qutebrowser
 cd $HOME/repos/qutebrowser
