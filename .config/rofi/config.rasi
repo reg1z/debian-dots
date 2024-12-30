@@ -1,0 +1,7 @@
+configuration {
+  modes: [ drun, run, window ];
+}
+
+@theme "sidebar"
+ 
+/* Insert theme modifications after this */

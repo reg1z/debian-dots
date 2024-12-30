@@ -1,0 +1,4 @@
+#!/bin/bash
+
+source ~/repos/qutebrowser/.venv/bin/activate
+python3 -m qutebrowser "$@"
