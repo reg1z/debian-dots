@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sudo apt update
-sudo apt install i3 rofi neovim tmux -y
+sudo apt install i3 autotiling rofi neovim tmux -y
 
 # directory setup
 mkdir -p $HOME/.config
