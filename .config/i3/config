@@ -35,7 +35,7 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 exec --no-startup-id nm-applet
 
 # i3 autotiling for bspwm-like tiling
-exec_always --no-startup-id autotiling --limit 1
+exec_always --no-startup-id autotiling --limit 2
 
 
 
